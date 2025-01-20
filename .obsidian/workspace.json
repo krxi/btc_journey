@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-01-19.md",
+                "file": "Networking.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-01-19"
+              "title": "Networking"
             }
           }
         ]
@@ -161,7 +161,10 @@
   },
   "active": "a174ba8ac82bc7c3",
   "lastOpenFiles": [
-    "Untitled.md",
-    "2025-01-19.md"
+    "2025-01-19.md",
+    "Networking.md",
+    "Untitled.canvas",
+    "my_notes",
+    "Untitled.md"
   ]
 }
